@@ -4,7 +4,7 @@ This is a simple and neat CSS effect.
 
 I practiced here shadows, rotation animations and special filters like hue-rotate, blur and drop-shadow.
 
-A simple and dinamic HTML and CSS only code.
+A simple and dynamic HTML and CSS only code.
 
 This was taken from the Online Tutorials [videos](https://www.youtube.com/watch?v=Po4ZYm6e0q0)
 
